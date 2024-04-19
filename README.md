@@ -158,3 +158,24 @@
     />
   </a>
 </p>
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=KapureKinnari&show_icons=true&locale=en"
+    alt="kapurekinnari"
+  />
+</p>
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapureKinnari&size_weight=0.5&count_weight=0.5"
+    alt="kapurekinnari"
+  />
+</p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KapureKinnari&"
+    alt="kapurekinnari"
+  />
+</p>
