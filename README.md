@@ -5,7 +5,8 @@
 
 
 
-- 🌱 I’m currently learning **Advance Java, NodeJs**<br>- 🌱how to reach me 
+- 🌱 I’m currently learning **Advance Java, NodeJs**<br>
+- 🌱 How to reach me: 
 **kapurekinnari2412@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
