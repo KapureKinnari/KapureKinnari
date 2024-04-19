@@ -158,7 +158,7 @@
     />
   </a>
 </p>
-
+[![Kinnari's GitHub stats](https://github-readme-stats.vercel.app/api?username=KapureKinnari)](https://github.com/KapureKinnari/github-readme-stats)
 
 
 
