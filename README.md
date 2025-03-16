@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Advance Java, NodeJs**<br>
+- 🌱 I’m currently learning **Java Frameworks,ReactJS,Tailwind Css**<br>
 - 🌱 How to reach me: 
 **kapurekinnari2412@gmail.com**
 
