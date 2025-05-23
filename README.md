@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kinnari Kapure</h1>
 <h3 align="center">A Passionate Software Developer with Frontend Technologies like HTML5,CSS,JavaScript,React JS and Back-end Technology PHP,Java,Spring-Boot,Hibernate and also familiar with  
-  Tailwind Css,Android(Kotlin).</h3>
+  Tailwind Css.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 
